@@ -15,12 +15,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+    git clone https://github.com/codedeprived/Java-Code.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd Java Code
     ```
 
 3. **Compile the Java files**:
@@ -47,5 +47,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-    <p>Made with ❤️ by Your Name</p>
+    <p>Made with ❤️ by CodeDeprived</p>
 </div>
